@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.purple{
+    color: rgb(168, 111, 220);
+}
+#element{
+    color: rgb(168, 111, 220);
+}
+.textGrey{
+    color: gray;
+}
+.imgTop{
+    width: 37px;
+    position: relative;
+    top: -52px;
+    left: -38px;
+}
+.verticalTitle{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: beige;
+    position: relative;
+    width: 12vw;
+    top: 3vh;
+}
+.verticalDesc{
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    color: gray;
+    margin-top: 4vh;
+    position: relative;
+    width: 10vw;
+    top: 86px;
+    font-size: 17px;
+    /* top: 2vh; */
+}

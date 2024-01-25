@@ -1,0 +1,17 @@
+.secondSection .boxLine{
+    background-color: white;
+    width: 80vw;
+    height: 2px;
+    margin: 0 71px;
+    display: flex;
+  margin-top: 14vh;
+}
+.secondSection .verticalLine{
+    width: 1.5px;
+    height: 4vh;
+    background-color: white;
+    margin: 0px 146px;
+    display: inline-grid;
+    
+   
+}
